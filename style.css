@@ -1,0 +1,8 @@
+html,body{
+    width: 5%;
+    margin: 0 auto;
+    font-family: arial, Helvetica, sans-seriff;
+}
+.container{
+    width: 360px;
+}
