@@ -8,7 +8,7 @@ html, body {
     width: 360px;
 }
 
-#inputField {
+#input {
     width: 300px;
     height: 46px;
     border-width: 0;
@@ -18,7 +18,7 @@ html, body {
     vertical-align: middle;
 }
 
-#addToDo {
+#add {
     height: 50px;
     width: 50px;
     border: 1px solid black;
@@ -32,6 +32,6 @@ html, body {
     font-size: 20px;
 }
 
-.to-dos {
+.todo {
     margin-top: 25px;
 }
